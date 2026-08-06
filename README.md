@@ -27,3 +27,9 @@ python scraper.py "external harddrive"
 CSV file is generated inside:
 
 output/products.csv
+
+## Sample Execution
+
+The screenshot below shows the scraper successfully extracting product information from MDComputers and exporting the results to CSV.
+
+![Scraper Demo](screenshots/scraper_demo.png)
