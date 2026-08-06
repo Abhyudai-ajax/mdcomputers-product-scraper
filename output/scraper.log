@@ -1,0 +1,61 @@
+2026-08-06 16:45:50 - __main__ - INFO - ================================================================================
+2026-08-06 16:45:50 - __main__ - INFO - MDComputers Scraper Started at 2026-08-06 16:45:50
+2026-08-06 16:45:50 - __main__ - INFO - ================================================================================
+2026-08-06 16:45:50 - __main__ - INFO - Starting scrape for search term: 'external harddrive'
+2026-08-06 16:45:50 - __main__ - INFO - Search URL: https://mdcomputers.in/?route=product/search&search=external%20harddrive
+2026-08-06 16:45:50 - __main__ - INFO - Fetching URL: https://mdcomputers.in/?route=product/search&search=external%20harddrive
+2026-08-06 16:45:52 - __main__ - INFO - Found 0 product items
+2026-08-06 16:45:52 - __main__ - INFO - Successfully extracted 0 products
+2026-08-06 16:45:52 - __main__ - WARNING - No products to export
+2026-08-06 16:45:52 - __main__ - WARNING - No products found
+2026-08-06 16:45:52 - __main__ - INFO - Scraping completed successfully
+2026-08-06 16:45:52 - __main__ - INFO - ================================================================================
+
+2026-08-06 16:58:50 - __main__ - INFO - ================================================================================
+2026-08-06 16:58:50 - __main__ - INFO - MDComputers Scraper Started at 2026-08-06 16:58:50
+2026-08-06 16:58:50 - __main__ - INFO - ================================================================================
+2026-08-06 16:58:50 - __main__ - INFO - Starting scrape for search term: 'external harddrive'
+2026-08-06 16:58:50 - __main__ - INFO - Search URL: https://mdcomputers.in/?route=product/search&search=external%20harddrive
+2026-08-06 16:58:50 - __main__ - INFO - Fetching URL: https://mdcomputers.in/?route=product/search&search=external%20harddrive
+2026-08-06 16:58:50 - __main__ - INFO - Found 20 product items
+2026-08-06 16:58:50 - __main__ - INFO - Successfully extracted 20 products
+2026-08-06 16:58:50 - __main__ - INFO - Successfully exported 20 products to output\products.csv
+2026-08-06 16:58:50 - __main__ - INFO - Scraping completed successfully
+2026-08-06 16:58:50 - __main__ - INFO - ================================================================================
+
+2026-08-06 16:59:43 - __main__ - INFO - ================================================================================
+2026-08-06 16:59:43 - __main__ - INFO - MDComputers Scraper Started at 2026-08-06 16:59:43
+2026-08-06 16:59:43 - __main__ - INFO - ================================================================================
+2026-08-06 16:59:43 - __main__ - INFO - Starting scrape for search term: 'ssd'
+2026-08-06 16:59:43 - __main__ - INFO - Search URL: https://mdcomputers.in/?route=product/search&search=ssd
+2026-08-06 16:59:43 - __main__ - INFO - Fetching URL: https://mdcomputers.in/?route=product/search&search=ssd
+2026-08-06 16:59:44 - __main__ - INFO - Found 20 product items
+2026-08-06 16:59:44 - __main__ - INFO - Successfully extracted 20 products
+2026-08-06 16:59:44 - __main__ - INFO - Successfully exported 20 products to output\products.csv
+2026-08-06 16:59:44 - __main__ - INFO - Scraping completed successfully
+2026-08-06 16:59:44 - __main__ - INFO - ================================================================================
+
+2026-08-06 16:59:49 - __main__ - INFO - ================================================================================
+2026-08-06 16:59:49 - __main__ - INFO - MDComputers Scraper Started at 2026-08-06 16:59:49
+2026-08-06 16:59:49 - __main__ - INFO - ================================================================================
+2026-08-06 16:59:49 - __main__ - INFO - Starting scrape for search term: 'graphics card'
+2026-08-06 16:59:49 - __main__ - INFO - Search URL: https://mdcomputers.in/?route=product/search&search=graphics%20card
+2026-08-06 16:59:49 - __main__ - INFO - Fetching URL: https://mdcomputers.in/?route=product/search&search=graphics%20card
+2026-08-06 16:59:51 - __main__ - INFO - Found 20 product items
+2026-08-06 16:59:51 - __main__ - INFO - Successfully extracted 20 products
+2026-08-06 16:59:51 - __main__ - INFO - Successfully exported 20 products to output\products.csv
+2026-08-06 16:59:51 - __main__ - INFO - Scraping completed successfully
+2026-08-06 16:59:51 - __main__ - INFO - ================================================================================
+
+2026-08-06 16:59:58 - __main__ - INFO - ================================================================================
+2026-08-06 16:59:58 - __main__ - INFO - MDComputers Scraper Started at 2026-08-06 16:59:58
+2026-08-06 16:59:58 - __main__ - INFO - ================================================================================
+2026-08-06 16:59:58 - __main__ - INFO - Starting scrape for search term: 'mouse'
+2026-08-06 16:59:58 - __main__ - INFO - Search URL: https://mdcomputers.in/?route=product/search&search=mouse
+2026-08-06 16:59:58 - __main__ - INFO - Fetching URL: https://mdcomputers.in/?route=product/search&search=mouse
+2026-08-06 17:00:00 - __main__ - INFO - Found 20 product items
+2026-08-06 17:00:00 - __main__ - INFO - Successfully extracted 20 products
+2026-08-06 17:00:00 - __main__ - INFO - Successfully exported 20 products to output\products.csv
+2026-08-06 17:00:00 - __main__ - INFO - Scraping completed successfully
+2026-08-06 17:00:00 - __main__ - INFO - ================================================================================
+
